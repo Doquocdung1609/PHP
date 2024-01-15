@@ -1,0 +1,47 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+form{
+    border-radius: 2% ;
+    border: solid 2px blue;
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+label{
+    margin-left: 10px;
+    font-weight: bold;
+}
+h2{
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+
+}
+input{
+    width: 96%;
+    margin-left: 10px;
+}
+button{
+    margin-left: 10px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: greenyellow;
+}
+
+td{
+    margin-left: 10px;
+    border: 2px solid grey;
+}
+
+

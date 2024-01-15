@@ -1,0 +1,14 @@
+table{
+    background-color: red;
+    border: 2px solid black;
+}
+tr{
+    text-align: left;
+    
+}
+th,td{
+    padding: 5px;
+    margin-left: 10px;
+    border: 2px solid black;
+
+}

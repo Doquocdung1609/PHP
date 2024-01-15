@@ -1,0 +1,10 @@
+.container{
+    border: solid 2px black;
+}
+
+th,td{
+    padding: 5px;
+    margin-left: 10px;
+    border: solid 2px black;
+    
+}
